@@ -1,26 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2021-05-26T07:01:17.375Z" agent="5.0 (Windows)" etag="0YY_Kf1CxJnALuN84Z2B" version="14.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-26T07:28:48.154Z" agent="5.0 (Windows)" etag="q7vavEw31sXX_BJn3FRV" version="14.7.1" type="github">
   <diagram id="mHXlc0OOzH8LVMHhlI8o" name="Page-1">
-    <mxGraphModel dx="849" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1730" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-1" value="&lt;div&gt;1-1首页&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="10" width="80" height="180" as="geometry" />
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-1" value="&lt;div&gt;1-1首页&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="70" y="510" width="100" height="180" as="geometry" />
         </mxCell>
         <mxCell id="D36p8Nw9q8Qgh6gDfxnA-2" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="110" width="60" height="30" as="geometry" />
+          <mxGeometry x="100" y="585" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-5" value="&lt;div&gt;2-1教练个人中心&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-5" value="&lt;div&gt;2-1教练个人中心&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="270" y="10" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="D36p8Nw9q8Qgh6gDfxnA-9" value="查看训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="100" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-11" value="&lt;div&gt;2-1新建训练&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-11" value="&lt;div&gt;2-1新建训练&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460" y="10" width="110" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-12" value="&lt;div&gt;2-1学员个人中心&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="210" width="110" height="170" as="geometry" />
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-12" value="&lt;div&gt;2-1学员个人中心&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="270" y="310" width="110" height="170" as="geometry" />
         </mxCell>
         <mxCell id="D36p8Nw9q8Qgh6gDfxnA-13" value="新建训练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="310" y="65" width="60" height="30" as="geometry" />
@@ -31,15 +31,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="D36p8Nw9q8Qgh6gDfxnA-14" value="预约场地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="345" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D36p8Nw9q8Qgh6gDfxnA-15" value="查看预约" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="340" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="415" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D36p8Nw9q8Qgh6gDfxnA-17" value="训练表单" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="50" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-18" value="&lt;div&gt;2-1训练表单&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-18" value="&lt;div&gt;2-1训练表单&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="650" y="10" width="110" height="180" as="geometry" />
         </mxCell>
         <mxCell id="D36p8Nw9q8Qgh6gDfxnA-20" value="训练地点" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -69,16 +69,16 @@
             <mxPoint x="510" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-33" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="D36p8Nw9q8Qgh6gDfxnA-9">
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-33" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="D36p8Nw9q8Qgh6gDfxnA-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="370" y="140" as="sourcePoint" />
             <mxPoint x="460" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-34" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="160" width="60" height="30" as="geometry" />
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-34" value="资源咨询查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="640" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-35" value="&lt;div&gt;2-1预约场地&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-35" value="&lt;div&gt;2-1预约场地&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="460" y="210" width="110" height="140" as="geometry" />
         </mxCell>
         <mxCell id="D36p8Nw9q8Qgh6gDfxnA-38" value="选择场地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -87,14 +87,137 @@
         <mxCell id="D36p8Nw9q8Qgh6gDfxnA-39" value="提交审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="495" y="300" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-44" value="&lt;div&gt;2-1选择场地&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="210" width="110" height="180" as="geometry" />
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-44" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2-1选择场地&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="660" y="210" width="100" height="140" as="geometry" />
         </mxCell>
         <mxCell id="D36p8Nw9q8Qgh6gDfxnA-45" value="关键字搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="250" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="D36p8Nw9q8Qgh6gDfxnA-46" value="预约教练" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="310" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="310" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-427" value="查看附近场地" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-429" value="&lt;div&gt;2-1预约教练&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="460" y="380" width="110" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-431" value="教练筛选" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-433" value="提交审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="500" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-434" value="&lt;div&gt;2-1教练筛选&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="650" y="405" width="110" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-435" value="关键字搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-436" value="教练推荐选择" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="510" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-440" value="" style="endArrow=classic;html=1;entryX=-0.036;entryY=0.101;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="D36p8Nw9q8Qgh6gDfxnA-46" target="D36p8Nw9q8Qgh6gDfxnA-429">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="480" as="sourcePoint" />
+            <mxPoint x="380" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-441" value="" style="endArrow=classic;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="D36p8Nw9q8Qgh6gDfxnA-431" target="D36p8Nw9q8Qgh6gDfxnA-434">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="510" as="sourcePoint" />
+            <mxPoint x="340" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-442" value="教练评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="445" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-443" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.014;entryY=0.068;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D36p8Nw9q8Qgh6gDfxnA-38" target="D36p8Nw9q8Qgh6gDfxnA-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="310" as="sourcePoint" />
+            <mxPoint x="650" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-444" value="&lt;div&gt;2-1教练评价&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="465" y="570" width="110" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-445" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.045;entryY=0.059;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D36p8Nw9q8Qgh6gDfxnA-442" target="D36p8Nw9q8Qgh6gDfxnA-444">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="560" as="sourcePoint" />
+            <mxPoint x="510" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-446" value="教练评分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="600" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-447" value="提交评价" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-452" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.071;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D36p8Nw9q8Qgh6gDfxnA-2" target="D36p8Nw9q8Qgh6gDfxnA-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="40" y="400" as="sourcePoint" />
+            <mxPoint x="260" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-453" value="" style="endArrow=classic;html=1;entryX=0.007;entryY=0.437;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="D36p8Nw9q8Qgh6gDfxnA-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="600" as="sourcePoint" />
+            <mxPoint x="200" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-454" value="&lt;div&gt;资源咨询查看&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="260" y="740" width="110" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-455" value="训练内容评分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="650" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-458" value="新闻资讯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="800" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-459" value="训练资源" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="860" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-460" value="&lt;div&gt;训练资源&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="980" width="110" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-462" value="资源收藏" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1040" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-463" value="资源点赞" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1070" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-464" value="资源分享" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1110" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-466" value="&lt;div&gt;新闻资讯&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="470" y="770" width="110" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-467" value="查看最新资讯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="810" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-468" value="查看新闻数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="860" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-470" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=-0.03;entryY=0.088;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D36p8Nw9q8Qgh6gDfxnA-34" target="D36p8Nw9q8Qgh6gDfxnA-454">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="880" as="sourcePoint" />
+            <mxPoint x="240" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-471" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.025;entryY=0.091;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="D36p8Nw9q8Qgh6gDfxnA-458" target="D36p8Nw9q8Qgh6gDfxnA-466">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1040" as="sourcePoint" />
+            <mxPoint x="460" y="780" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-472" value="" style="endArrow=classic;html=1;entryX=0;entryY=0.118;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="D36p8Nw9q8Qgh6gDfxnA-459" target="D36p8Nw9q8Qgh6gDfxnA-460">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="1040" as="sourcePoint" />
+            <mxPoint x="380" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D36p8Nw9q8Qgh6gDfxnA-477" value="资源搜索" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1010" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
